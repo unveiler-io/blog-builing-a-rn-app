@@ -1,16 +1,16 @@
 import React from 'react'
 import { StyleSheet, View, Text, Button } from 'react-native'
 
-import { ClaimrClient, useLazyVerifiedLocation } from '@claimr/react-native-client'
+import { UnveilerClient, useLazyVerifiedLocation } from '@unveiler.io/react-native-client'
 
-const client = new ClaimrClient({ apiKey: 'YOUR_API_KEY' })
+const client = new UnveilerClient({ apiKey: 'YOUR_API_KEY' })
 
 const App = () => {
   const { claim, state, submit } = useLazyVerifiedLocation({ client })
   
   return (
     <View style={styles.container}>
-      <Text style={styles.titleText}>My ClaimR App</Text>
+      <Text style={styles.titleText}>My Unveiler App</Text>
       <Text>State: { state.toLocaleUpperCase() }</Text>
       {submit && <Button onPress={submit} title={'Submit'} />}
       {claim && (

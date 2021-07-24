@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "MyClaimrApp-tvOS.app"
-               BlueprintName = "MyClaimrApp-tvOS"
-               ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+               BuildableName = "MyUnveilerApp-tvOS.app"
+               BlueprintName = "MyUnveilerApp-tvOS"
+               ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "MyClaimrApp-tvOSTests.xctest"
-               BlueprintName = "MyClaimrApp-tvOSTests"
-               ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+               BuildableName = "MyUnveilerApp-tvOSTests.xctest"
+               BlueprintName = "MyUnveilerApp-tvOSTests"
+               ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "MyClaimrApp-tvOS.app"
-            BlueprintName = "MyClaimrApp-tvOS"
-            ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+            BuildableName = "MyUnveilerApp-tvOS.app"
+            BlueprintName = "MyUnveilerApp-tvOS"
+            ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "MyClaimrApp-tvOS.app"
-            BlueprintName = "MyClaimrApp-tvOS"
-            ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+            BuildableName = "MyUnveilerApp-tvOS.app"
+            BlueprintName = "MyUnveilerApp-tvOS"
+            ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

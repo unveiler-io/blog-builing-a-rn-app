@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.myclaimrapp"
+        applicationId "com.myunveilerapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "MyClaimrApp.app"
-               BlueprintName = "MyClaimrApp"
-               ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+               BuildableName = "MyUnveilerApp.app"
+               BlueprintName = "MyUnveilerApp"
+               ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "MyClaimrAppTests.xctest"
-               BlueprintName = "MyClaimrAppTests"
-               ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+               BuildableName = "MyUnveilerAppTests.xctest"
+               BlueprintName = "MyUnveilerAppTests"
+               ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MyClaimrApp.app"
-            BlueprintName = "MyClaimrApp"
-            ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+            BuildableName = "MyUnveilerApp.app"
+            BlueprintName = "MyUnveilerApp"
+            ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MyClaimrApp.app"
-            BlueprintName = "MyClaimrApp"
-            ReferencedContainer = "container:MyClaimrApp.xcodeproj">
+            BuildableName = "MyUnveilerApp.app"
+            BlueprintName = "MyUnveilerApp"
+            ReferencedContainer = "container:MyUnveilerApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

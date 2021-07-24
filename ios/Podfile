@@ -3,12 +3,12 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'MyClaimrApp' do
+target 'MyUnveilerApp' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'MyClaimrAppTests' do
+  target 'MyUnveilerAppTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -23,10 +23,10 @@ target 'MyClaimrApp' do
   end
 end
 
-target 'MyClaimrApp-tvOS' do
-  # Pods for MyClaimrApp-tvOS
+target 'MyUnveilerApp-tvOS' do
+  # Pods for MyUnveilerApp-tvOS
 
-  target 'MyClaimrApp-tvOSTests' do
+  target 'MyUnveilerApp-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

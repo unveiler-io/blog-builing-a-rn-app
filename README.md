@@ -1,6 +1,6 @@
 # Blog: Building a React Native app with verified location from scratch
 
-The source code of the minimal app created in [this](https://developer.claimr.tools/blog/2020/09/19/Building-a-React-Native-app-with-verified-location-from-scratch) blogpost.
+The source code of the minimal app created in [this](https://developer.unveiler.io/blog/2020/09/19/Building-a-React-Native-app-with-verified-location-from-scratch) blogpost.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ The source code of the minimal app created in [this](https://developer.claimr.to
 Clone the source code:
 
 ```bash
-git clone https://github.com/ClaimR/blog-builing-a-rn-app.git && cd blog-building-a-rn-app
+git clone https://github.com/unveiler-io/blog-builing-a-rn-app.git && cd blog-building-a-rn-app
 ```
 
 Then install all dependencies:

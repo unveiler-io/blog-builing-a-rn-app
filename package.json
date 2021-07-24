@@ -1,5 +1,5 @@
 {
-  "name": "MyClaimrApp",
+  "name": "my-unveiler-app",
   "version": "0.0.1",
   "private": false,
   "license": "MIT",
@@ -11,7 +11,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@claimr/react-native-client": "^1.1.0",
+    "@unveiler.io/react-native-client": "^3.0.0",
     "react": "16.13.1",
     "react-native": "0.63.2"
   },
